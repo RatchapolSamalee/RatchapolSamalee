@@ -1,4 +1,4 @@
-# Welcome to my portfolio. I'm Ratchapol Samalee.
+# Welcome to my GitHub. I'm Ratchapol Samalee.
 
 ## 👨‍💻 About Me
 
