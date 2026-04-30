@@ -3,6 +3,7 @@
 ## 👨‍💻 About Me
 
 Senior-year **Statistics** undergraduate interested in applying Data Science and AI to solve real-world problems.
+
 Currently exploring how machine learning models can be integrated into end-to-end systems, combining data processing, backend development, and MLOps for practical deployment.
 
 ---
