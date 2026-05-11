@@ -26,6 +26,6 @@ Currently exploring how machine learning models can be integrated into end-to-en
 
 ### Project
 
-- **[Agentic customer support gmail pipeline]([https://github.com/RatchapolSamalee/Gold-Price-Forecasting-Using-ETS-ARIMA-XGBoost-and-LSTM](https://github.com/RatchapolSamalee/agentic-customer-support-gmail-pipeline/tree/main)** 
+- **[Agentic customer support gmail pipeline](https://github.com/RatchapolSamalee/agentic-customer-support-gmail-pipeline/tree/main)** 
 ---
 
