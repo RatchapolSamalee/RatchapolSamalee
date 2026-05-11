@@ -22,7 +22,10 @@ Currently exploring how machine learning models can be integrated into end-to-en
 ### Modeling & Research
 
 - **[Gold Price Forecasting: Time Series vs Machine Learning](https://github.com/RatchapolSamalee/Gold-Price-Forecasting-Using-ETS-ARIMA-XGBoost-and-LSTM)**  (Conference ORNET 2026)
-- **[Thai Sentiment Analysis with WangChanBERTa](https://github.com/lillion2003/Enhancing-Thai-Sentiment-Analysis-with-WangChanBERTa-using-Typhoon-Generated-Synthetic-Data)**  (Conference AUCC 2026) 
+- **[Thai Sentiment Analysis with WangChanBERTa](https://github.com/lillion2003/Enhancing-Thai-Sentiment-Analysis-with-WangChanBERTa-using-Typhoon-Generated-Synthetic-Data)**  (Conference AUCC 2026)
 
+### Project
+
+- **[ Agentic customer support gmail pipeline]([https://github.com/RatchapolSamalee/Gold-Price-Forecasting-Using-ETS-ARIMA-XGBoost-and-LSTM](https://github.com/RatchapolSamalee/agentic-customer-support-gmail-pipeline/tree/main))** 
 ---
 
