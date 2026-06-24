@@ -1,6 +1,6 @@
 # Welcome to my GitHub. I'm Ratchapol Samalee.
 
-## 👨‍💻 About Me
+## About Me
 
 **Statistics** graduate interested in applying Data Science and AI to solve real-world problems.
 
